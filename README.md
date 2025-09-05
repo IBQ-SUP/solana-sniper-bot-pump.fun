@@ -76,9 +76,3 @@ sell: [https://solscan.io/tx/5QDYSiST7KX9viNZXSeSATZYMJ5ioJrHJxqu9DVwFzREMarwwma
 7. AUTO_SELL - true/false
 
 8. MAX_SELL_RETRIES - Maximum number of retries for selling a token
-
-## Stay Connected
-
-Gmail: lendonbracewell1114@gmail.com
-
-Telegram: [@Topsecretagent_007](https://t.me/topsecretagent_007)
